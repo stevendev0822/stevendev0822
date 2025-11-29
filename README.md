@@ -1,12 +1,7 @@
 <div align="center" width="50">
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
-</div>
   
 <a href="https://app.daily.dev/imcrazysteven"><img src="https://api.daily.dev/devcards/v2/rcpJIfOJ05isZUd5pqEDk.png?type=default&r=3qu" width="356" alt="Steven Leal's Dev Card"/></a>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=imcrazysteven&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/imcrazysteven-grey?style=flat&logo=telegram)](https://t.me/imcrazysteven) <br>
 </div>
 
 <hr></hr>
@@ -58,10 +53,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m interested in building **Decentralized AI  World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Nextjs, DEX, Solidity, Dapp, AI Agent, Automation or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Be crazy about what you do, do what you are crazy about.<br>
 
 <div align="center" >
   
@@ -92,6 +87,3 @@ class About extends Me {
 </div>
 -->
 </div>
-
-
-  
